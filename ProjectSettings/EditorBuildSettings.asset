@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CorePolygonMRTemplate/Scenes/demo.unity
+    guid: 377f9a648780348e4aa133e437d285a1
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb6e838521b9043fdb3b6ef3e4791708, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 69bf2d08da1e140ed93dbad9d0e18453, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 757884a9b6573454fa7590aba3de2a03, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 01a39adc518654c7fa54baa335ff93a8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 688638bc86eab42248352f3878a0215e, type: 2}
